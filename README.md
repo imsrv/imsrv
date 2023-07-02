@@ -1,5 +1,7 @@
-### Hi there 👋
+<h2> Hi, I'm Saurav Kumawat! <img src="https://media.giphy.com/media/DZrp2DjxS7P5aVzmOj/giphy.gif" width="50"></h2> 👋
 
+- 🔭 I’m currently working on Brainbucks & Intellix360 at We RNS IT Solutions Pvt Ltd
+- 🌱 Currently learning AWS DevOps CI/CD Pipelines & ReactJS
 <!--
 **imsrv/imsrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
