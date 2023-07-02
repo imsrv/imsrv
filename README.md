@@ -1,5 +1,5 @@
 <h2> Hi, I'm Saurav Kumawat! <img src="https://media.giphy.com/media/DZrp2DjxS7P5aVzmOj/giphy.gif" width="50"></h2> 👋
-
+<img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="100">
 - 🔭 I’m currently working on Brainbucks & Intellix360 at We RNS IT Solutions Pvt Ltd
 - 🌱 Currently learning AWS DevOps CI/CD Pipelines & ReactJS
 <!--
