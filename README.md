@@ -28,8 +28,8 @@ I'm a Full Stack Developer, CTO, and Co-Founder currently working on some exciti
   - API Integration and Payment Gateways
 
 - 📫 **How to Reach Me:**
-  - [LinkedIn](https://www.linkedin.com/in/sauravkumawat)
-  - [Email](mailto:youremail@example.com)
+  - [LinkedIn](https://www.linkedin.com/in/saurav-kumawat)
+  - [Email](mailto:srvkmwt@gmail.com)
 
 - 😄 **Pronouns:**
   - He/Him
