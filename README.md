@@ -3,13 +3,19 @@
 I'm a Full Stack Developer, CTO, and Co-Founder currently working on some exciting projects at Brainbucks and We RNS IT Solutions Pvt Ltd. With a strong background in both backend and frontend technologies, I'm passionate about building scalable and efficient web applications.
 
 - 🔭 **Current Projects:**
-  - Brainbucks: An app-based startup offering quiz-based games for competitive Indian govt job exams.
-  - Intellix360: A platform developed at We RNS IT Solutions Pvt Ltd.
+  - Edvice ICC Hub - Platform that connects Students with Career Counselors for right career advice.
 
 - 🌱 **Currently Learning:**
-  - AWS & Azure Cloud
-  - DevOps CI/CD Pipelines
-  - ReactJS & React Native
+  - Advanced AWS & Azure Cloud
+  - Advanced DevOps CI/CD Pipelines
+  - Advance ReactJS & React Native
+  - Python
+
+- **Worked on:**
+  - Brainbucks: An app-based startup offering quiz-based games for competitive Indian govt job exams.
+  - Intellix360: A platform developed at We RNS IT Solutions Pvt Ltd.
+  - E-commerce marketplace b2b platform development
+  - Payment Solutions development
 
 - 👯 **Looking to Collaborate On:**
   - Innovative tech solutions
@@ -18,7 +24,7 @@ I'm a Full Stack Developer, CTO, and Co-Founder currently working on some exciti
 
 - 🤔 **Looking for Help With:**
   - Implementing advanced DevOps practices
-  - Exploring new front-end frameworks
+  - Exploring new front-end frameworks and Ideas
 
 - 💬 **Ask Me About:**
   - Full Stack Development
@@ -42,15 +48,15 @@ I'm a Full Stack Developer, CTO, and Co-Founder currently working on some exciti
 **Skills and Abilities:**
 
 - **Backend Development:**
-  - PHP, Laravel, C#
-  - MySQL, MSSQL
+  - Node Express, PHP, Laravel, C#, Python
+  - MySQL, Postgres
 
 - **Frontend Development:**
   - HTML, CSS, JavaScript
-  - ReactJS, Bootstrap
+  - ReactJS, React Native, Bootstrap5
 
 - **DevOps & Cloud:**
-  - AWS, Azure
+  - AWS, Azure, Jenkins, Docker, Nginx
   - CI/CD Pipelines
 
 - **Digital Marketing:**
@@ -58,8 +64,8 @@ I'm a Full Stack Developer, CTO, and Co-Founder currently working on some exciti
   - Social Media Marketing, Facebook Marketing
 
 - **Other Technologies:**
-  - ASP.Net, Crystal Reports
-  - Adobe Photoshop
+  - ASP.Net Basics, Wordpress,
+  - Adobe Photoshop, Canva, ChatGPT, Writing
 
 ---
 
