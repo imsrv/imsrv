@@ -5,12 +5,6 @@ I'm a Full Stack Developer, CTO, and Co-Founder currently working on some exciti
 - 🔭 **Current Projects:**
   - Edvice ICC Hub - Platform that connects Students with Career Counselors for right career advice.
 
-- 🌱 **Currently Learning:**
-  - Advanced AWS & Azure Cloud
-  - Advanced DevOps CI/CD Pipelines
-  - Advance ReactJS & React Native
-  - Python
-
 - **Worked on:**
   - Brainbucks: An app-based startup offering quiz-based games for competitive Indian govt job exams.
   - Intellix360: A platform developed at We RNS IT Solutions Pvt Ltd.
