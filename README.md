@@ -1,6 +1,7 @@
 ### Hi there, I'm Saurav Kumawat 👋 <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="100">
 
-I'm a Full Stack Developer, CTO, and Co-Founder currently working on some exciting projects at Brainbucks and We RNS IT Solutions Pvt Ltd. With a strong background in both backend and frontend technologies, I'm passionate about building scalable and efficient web applications.
+#Opentowork - Looking for a job change
+I'm a Full Stack Developer - Team Lead, CTO, and currently working at Brainbucks and We RNS IT Solutions Pvt Ltd. With a strong background in both backend and frontend technologies, I'm passionate about building scalable and efficient web applications.
 
 - 🔭 **Current Projects:**
   - Edvice ICC Hub - Platform that connects Students with Career Counselors for right career advice.
