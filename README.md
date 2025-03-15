@@ -16,20 +16,17 @@ I'm a Full Stack Developer, CTO, and Co-Founder currently working on some exciti
   - Open-source projects
   - Web development and digital marketing strategies
 
-- 🤔 **Looking for Help With:**
-  - Implementing advanced DevOps practices
-  - Exploring new front-end frameworks and Ideas
-
 - 💬 **Ask Me About:**
   - Full Stack Development
-  - Digital Marketing Strategies
-  - Backend Development with Laravel and PHP
+  - Marketing Strategies & Business Development
+  - Innovative Business and Startup Ideas
+  - Backend Development with Expressjs, , Laravel and PHP
   - Frontend Development with JavaScript and CSS
   - API Integration and Payment Gateways
 
 - 📫 **How to Reach Me:**
   - [LinkedIn](https://www.linkedin.com/in/saurav-kumawat)
-  - [Email](mailto:srvkmwt@gmail.com)
+  - [Email](mailto:sauravkumawat55@gmail.com)
 
 - 😄 **Pronouns:**
   - He/Him
@@ -42,7 +39,7 @@ I'm a Full Stack Developer, CTO, and Co-Founder currently working on some exciti
 **Skills and Abilities:**
 
 - **Backend Development:**
-  - Node Express, PHP, Laravel, C#, Python
+  - Expressjs, Fastify, PHP, Laravel, C#, Python, Java
   - MySQL, Postgres
 
 - **Frontend Development:**
