@@ -1,13 +1,14 @@
 ### Hi there, I'm Saurav Kumawat 👋 <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="100">
 
-#Opentowork - Looking for a job change
+#Open to Work, Projects, Contribute and Help you build your next product
 
 I'm a Full Stack Developer - Team Lead, CTO, and currently working at Brainbucks and We RNS IT Solutions Pvt Ltd. With a strong background in both backend and frontend technologies, I'm passionate about building scalable and efficient web applications.
 
-- 🔭 **Current Projects:**
-  - Edvice ICC Hub - Platform that connects Students with Career Counselors for right career advice.
+- 🔭 **Recent Projects:**
+  E-Commerce system - project management and full stack roadmap development
 
 - **Worked on:**
+  - Edvice ICC Hub - Platform that connects Students with Career Counselors for right career advice.
   - Brainbucks: An app-based startup offering quiz-based games for competitive Indian govt job exams.
   - Intellix360: A platform developed at We RNS IT Solutions Pvt Ltd.
   - E-commerce marketplace b2b platform development
