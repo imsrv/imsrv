@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Saurav%20Kumawat&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Product%20Strategist%20%7C%20Tech%20Lead&descAlignY=55&descAlign=50" width="100%" alt="Saurav Kumawat Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8797FF&height=250&section=header&text=Saurav%20Kumawat&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Product%20Strategist%20%7C%20Tech%20Lead&descAlignY=55&descAlign=50" width="100%" alt="Saurav Kumawat Header" />
 
   <p align="center">
     <a href="https://linkedin.com/in/saurav-kumawat" target="_blank">
