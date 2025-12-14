@@ -1,66 +1,40 @@
-### Hi there, I'm Saurav Kumawat 👋 <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="100">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Saurav%20Kumawat&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Product%20Strategist%20%7C%20Tech%20Lead&descAlignY=55&descAlign=50" width="100%" alt="Saurav Kumawat Header" />
 
-#Open to Work, Projects, Contribute and Help you build your next product
-
-I'm a Full Stack Developer - Team Lead, CTO, and currently working at Brainbucks and We RNS IT Solutions Pvt Ltd. With a strong background in both backend and frontend technologies, I'm passionate about building scalable and efficient web applications.
-
-- 🔭 **Recent Projects:**
-  E-Commerce system - project management and full stack roadmap development
-
-- **Worked on:**
-  - Edvice ICC Hub - Platform that connects Students with Career Counselors for right career advice.
-  - Brainbucks: An app-based startup offering quiz-based games for competitive Indian govt job exams.
-  - Intellix360: A platform developed at We RNS IT Solutions Pvt Ltd.
-  - E-commerce marketplace b2b platform development
-  - Payment Solutions development
-
-- 👯 **Looking to Collaborate On:**
-  - Innovative tech solutions
-  - Open-source projects
-  - Web development and digital marketing strategies
-
-- 💬 **Ask Me About:**
-  - Full Stack Development
-  - Marketing Strategies & Business Development
-  - Innovative Business and Startup Ideas
-  - Backend Development with Expressjs, , Laravel and PHP
-  - Frontend Development with JavaScript and CSS
-  - API Integration and Payment Gateways
-
-- 📫 **How to Reach Me:**
-  - [LinkedIn](https://www.linkedin.com/in/saurav-kumawat)
-  - [Email](mailto:sauravkumawat55@gmail.com)
-
-- 😄 **Pronouns:**
-  - He/Him
-
-- ⚡ **Fun Fact:**
-  - I have a knack for solving complex problems and enjoy working on both creative and technical aspects of projects. When I'm not coding, you can find me exploring new technologies, reading about the latest industry trends, or playing quiz-based games.
+  <p align="center">
+    <a href="https://linkedin.com/in/saurav-kumawat" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sauravkumawat55@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/imsrv">
+      <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-**Skills and Abilities:**
+### 🚀 About Me
+**I bridge the gap between complex code and business growth.**
 
-- **Backend Development:**
-  - Expressjs, Fastify, PHP, Laravel, C#, Python, Java
-  - MySQL, Postgres
+Based in **Jaipur, India**, I am a **Full Stack Developer turned Technical Lead** with a "T-shaped" profile. I don't just write code; I manage the entire product lifecycle—from drafting the initial proposal to configuring the CI/CD pipeline and executing the go-to-market strategy.
 
-- **Frontend Development:**
-  - HTML, CSS, JavaScript
-  - ReactJS, React Native, Bootstrap5
-
-- **DevOps & Cloud:**
-  - AWS, Azure, Jenkins, Docker, Nginx
-  - CI/CD Pipelines
-
-- **Digital Marketing:**
-  - SEO, SEM, Content Marketing
-  - Social Media Marketing, Facebook Marketing
-
-- **Other Technologies:**
-  - ASP.Net Basics, Wordpress,
-  - Adobe Photoshop, Canva, ChatGPT, Writing
+* 🔭 **Currently:** Leading technical teams & product strategy at **Brainbucks** & **We RNS IT Solutions**.
+* 🌱 **Exploring:** Advanced **AI Agents**, **DevRel strategies**, and **Large Language Models (LLMs)**.
+* 💡 **Superpower:** I speak two languages fluently: **JavaScript** (for the machines) and **Business ROI** (for the clients).
 
 ---
 
-Let's connect and create something amazing together!
+### 📊 My "Versatile" Workflow
+Since I wear multiple hats (Dev, Ops, Product, Design), here is how my expertise is distributed.
+*(GitHub renders this chart natively!)*
+
+```mermaid
+pie title Role Distribution
+    "Full Stack Engineering" : 40
+    "Product Strategy & Mgmt" : 25
+    "Team Leadership & Mentoring" : 20
+    "DevOps & Automation" : 10
+    "Design & Creative" : 5
